@@ -8,13 +8,13 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Razzaq44/RPP_UAS_MKPL</url>
+      <url>https://maven.pkg.github.com/Razzaq44/TestJava</url>
     </repository>
   </distributionManagement>
 
     <groupId>com.houari</groupId>
     <artifactId>calculator</artifactId>
-    <version>1.2</version>
+    <version>1.1</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
