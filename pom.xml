@@ -8,7 +8,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Razzaq44/TestJava</url>
+      <url>https://maven.pkg.github.com/Razzaq44/RPP_UAS_MKPL</url>
     </repository>
   </distributionManagement>
 
