@@ -13,7 +13,7 @@
   </distributionManagement>
 
     <groupId>com.houari</groupId>
-    <artifactId>Calculator</artifactId>
+    <artifactId>calculatorjava</artifactId>
     <version>1.2.1</version>
 
     <properties>
